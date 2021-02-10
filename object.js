@@ -6,4 +6,6 @@ let spaceship = {
 	flightPath: ['Venus', 'Mars', 'Saturn'],
 };
 
+let crewCount = spaceship.numCrew;
+let planetArray = spaceship.flightPath;
 console.log(spaceship.homePlanet);
